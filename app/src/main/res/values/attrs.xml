@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标签-->
+    <declare-styleable name="topics_view">
+        <attr name="maxLine" format="integer" />
+        <attr name="lineMargin" format="dimension" />
+        <attr name="topicMargin" format="dimension" />
+    </declare-styleable>
+</resources>
